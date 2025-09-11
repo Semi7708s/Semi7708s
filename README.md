@@ -37,4 +37,11 @@ No momento, lidero o time técnico da **Futurium LTDA**, uma rede de servidores 
 
 ---
 
+## 🏅 My GitHub Stats:
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Semi7708s&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semi7708s&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+---
 🔥 *Buscando sempre inovação e performance no universo dos servidores Minecraft!*
