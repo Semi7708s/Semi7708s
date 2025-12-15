@@ -2,7 +2,6 @@
 
 🎮 **Desenvolvedor focado em Games**  
 💡 Especialista em desenvolvimento e configurações de **plugins para servidores de Minecraft**  
-🧠 **Desenvolvedor Chefe na Futurium LTDA**
 
 ---
 
